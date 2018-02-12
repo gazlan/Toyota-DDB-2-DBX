@@ -1,0 +1,7 @@
+-*-   DDB-2-DBFx  1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+Toyota DDB to DBFx converter
+
+Usage: ddb2dbf.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
